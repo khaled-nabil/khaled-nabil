@@ -9,7 +9,8 @@ Take this guide with you adventurer, may it help you explore better, or somethin
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-nabil&theme=tokyonight&layout=compact&hide_title=true&bg_color=3b3c3d&text_color=b1aea6)](https://github.com/anuraghazra/github-readme-stats)
 
 👁️ or just look at some fancy badges. you know you like it. 👁️
-
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=yellow)
+![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 )
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -18,8 +19,6 @@ Take this guide with you adventurer, may it help you explore better, or somethin
 )
 ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=yellow)
 
 and some more old schoolers? for nostolgia purposes
 
