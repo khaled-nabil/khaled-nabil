@@ -9,6 +9,7 @@ Take this guide with you adventurer, may it help you explore better, or somethin
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-nabil&theme=tokyonight&layout=compact&hide_title=true&bg_color=3b3c3d&text_color=b1aea6)](https://github.com/anuraghazra/github-readme-stats)
 
 👁️ or just look at some fancy badges. you know you like it. 👁️
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=yellow)
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
