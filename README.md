@@ -6,7 +6,7 @@ By all means, please do explore my repos... i guess..
 
 Take this guide with you adventurer, may it help you explore better, or something.
 
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-nabil&theme=tokyonight&layout=compact&hide_title=true&bg_color=3b3c3d&text_color=b1aea6)](https://github.com/anuraghazra/github-readme-stats)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-nabil&theme=tokyonight&layout=compact&hide_title=true&bg_color=3b3c3d&text_color=b1aea6)](https://github.com/anuraghazra/github-readme-stats) 
 
 👁️ or just look at some fancy badges. you know you like it. 👁️
 
