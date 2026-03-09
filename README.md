@@ -6,7 +6,7 @@ By all means, please do explore my repos... i guess..
 
 Take this guide with you adventurer, may it help you explore better, or something.
 
-![Programming Languages Stats](./profile/stats.svg)
+![Programming Languages Stats](./profile/top-langs.svg)
 
 👁️ or just look at some fancy badges. you know you like it. 👁️
 
